@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "VyperSMP.aternos.me:62654",
+    "port": 62654,
     "version": "",
     "try-creative": false
   },
